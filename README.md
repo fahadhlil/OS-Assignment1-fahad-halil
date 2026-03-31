@@ -459,11 +459,11 @@ Date Submitted: [Submission Date]
 
 **Example:**
 ```
-Student Name: Mohammed Ahmed Abdullah
-Student ID: 442105123
-GitHub Username: mohammed-ahmed-441
-Repository Link: https://github.com/mohammed-ahmed-441/OS-Assignment1-Mohammed-Ahmed
-Video Link: https://drive.google.com/file/d/1aBcDeFgHiJkLmNoPqRsTuVwXyZ/view?usp=sharing
+Student Name: fahad hlil aloatibi
+Student ID: 443052255
+GitHub Username: fahadhlil
+Repository Link: https://github.com/fahadhlil/OS-Assignment1-fahad-halil.git
+Video Link: https://drive.google.com/file/d/1Zz2PNNFR3pgN9YwQSHj0Bim4usXe8IpS/view?usp=sharing
 Date Submitted: March 31, 2026
 ```
 
